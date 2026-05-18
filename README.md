@@ -81,6 +81,9 @@ Click the **"Restart Game"** button to:
 - Online multiplayer
 
 ---
+# 📸 Screenshot
+
+![Tic-Tac-Toe-Game](Tic-Tac-Toe-Game/image/screenshot.png)
 
 ## 👨‍💻 Author
 
